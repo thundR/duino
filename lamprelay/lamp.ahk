@@ -1,1 +1,0 @@
-Home::run C:\Users\Evan\Desktop\Code\Arduino\lamprelay\toggle_lamp.lnk
